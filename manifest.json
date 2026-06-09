@@ -2,7 +2,7 @@
   "name": "Ledger — Control de Préstamos",
   "short_name": "Ledger",
   "description": "Control de préstamos y abonos, totalmente offline.",
-  "start_url": "./prestamos.html",
+  "start_url": "./index.html",
   "scope": "./",
   "display": "standalone",
   "orientation": "portrait",
